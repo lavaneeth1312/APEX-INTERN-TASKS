@@ -1,5 +1,6 @@
 body { font-family: Arial; margin: 0; }
-header, footer { background: #222; color: white; padding: 10px; text-align: center; }
+header, footer { background: #222; color: rgb(9, 237, 229); padding: 10px; text-align: center; }
+body{background-color: rgb(192, 242, 198);}
 nav { display: flex; justify-content: center; gap: 15px; background: #ddd; padding: 10px; }
 section { padding: 15px; }
 table { border-collapse: collapse; width: 100%; }
